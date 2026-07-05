@@ -132,12 +132,12 @@ The project is built around the Google ADK and utilizes the `gemini-3.1-flash-li
 
 ## Tech Stack
 
-Google Agent Development Kit (ADK)
-Gemini models (LLM + embeddings)
-ChromaDB (local vector database)
-ReportLab (PDF generation)
-Pydantic (structured outputs)
-Python 3.10+
+1.Google Agent Development Kit (ADK)
+2Gemini models (LLM + embeddings)
+3.ChromaDB (local vector database)
+4.ReportLab (PDF generation)
+5.Pydantic (structured outputs)
+6.Python 3.10+
 
 Constraints
 Single jurisdiction: UAE labour law only
