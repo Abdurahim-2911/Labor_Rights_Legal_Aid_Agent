@@ -1,0 +1,58 @@
+[
+  {
+    "name": "MOHRE 24-hour Call Centre",
+    "type": "government",
+    "phone": "600590000",
+    "url": "https://www.mohre.gov.ae",
+    "applicable_issue_types": ["unpaid_wages", "contract_violation", "workplace_abuse", "illegal_termination", "unsafe_conditions", "other"],
+    "notes": "Primary channel for all labour disputes. Available 24/7."
+  },
+  {
+    "name": "MOHRE Toll-free Labour Complaint Line",
+    "type": "government",
+    "phone": "80060",
+    "url": "https://www.mohre.gov.ae",
+    "applicable_issue_types": ["unpaid_wages", "contract_violation", "workplace_abuse", "illegal_termination", "unsafe_conditions", "other"],
+    "notes": "Toll-free line for reporting complaints directly."
+  },
+  {
+    "name": "MOHRE Labour Claims & Advisory Line",
+    "type": "government",
+    "phone": "80084",
+    "url": "https://www.mohre.gov.ae",
+    "applicable_issue_types": ["unpaid_wages", "contract_violation", "illegal_termination", "other"],
+    "notes": "Advisory services for legal rights and claims."
+  },
+  {
+    "name": "Dubai Police - Human Trafficking Hotline",
+    "type": "government",
+    "phone": "999 or 901",
+    "url": "https://www.dubaipolice.gov.ae",
+    "applicable_issue_types": ["workplace_abuse", "unsafe_conditions", "other"],
+    "notes": "Call 999 for emergencies and immediate physical danger. Call 901 for non-emergencies."
+  },
+  {
+    "name": "EWAA Shelter for Victims of Human Trafficking",
+    "type": "ngo",
+    "phone": "8007283",
+    "url": "https://www.shwc.ae",
+    "applicable_issue_types": ["workplace_abuse", "unsafe_conditions", "other"],
+    "notes": "Safe shelter and support for victims of human trafficking and abuse."
+  },
+  {
+    "name": "Indian Embassy (Abu Dhabi) / Consulate (Dubai)",
+    "type": "embassy",
+    "phone": "80046342",
+    "url": "https://www.indembassyuae.gov.in",
+    "applicable_issue_types": ["unpaid_wages", "contract_violation", "workplace_abuse", "illegal_termination", "unsafe_conditions", "other"],
+    "notes": "Pravasi Bharatiya Sahayata Kendra (PBSK) toll-free helpline for Indian nationals."
+  },
+  {
+    "name": "Pakistan Embassy (Abu Dhabi) / Consulate (Dubai)",
+    "type": "embassy",
+    "phone": "043973600",
+    "url": "https://mofa.gov.pk/uae",
+    "applicable_issue_types": ["unpaid_wages", "contract_violation", "workplace_abuse", "illegal_termination", "unsafe_conditions", "other"],
+    "notes": "Provides assistance to Pakistani workers."
+  }
+]
