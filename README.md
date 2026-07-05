@@ -144,11 +144,16 @@ The project is built around the Google ADK and utilizes the `gemini-3.1-flash-li
 
 6.Python 3.10+
 
-Constraints
+Constraints :
+
 Single jurisdiction: UAE labour law only
+
 No live web scraping or external API enrichment
+
 No real user data storage (synthetic testing only)
+
 No messaging integrations (WhatsApp/Telegram/etc.)
+
 Safety Agent overrides all downstream processing in high-risk cases
 
 ## Project Structure
