@@ -1,0 +1,8 @@
+google-adk          # Google Agent Development Kit (the agent framework)
+google-genai        # Google GenAI SDK (directly imported for types)
+chromadb            # Local vector database for RAG (legal document search)
+pymupdf             # PDF text extraction (imported as 'fitz')
+reportlab           # PDF generation for complaint letters
+pydantic            # Data validation & structured schemas
+python-dotenv       # Loads .env file into environment variables
+sentence-transformers  # Local embedding models for ChromaDB
