@@ -144,7 +144,7 @@ The project is built around the Google ADK and utilizes the `gemini-3.1-flash-li
 
 6.Python 3.10+
 
-## Constraints :
+## Constraints
 
 Single jurisdiction: UAE labour law only
 
