@@ -50,27 +50,34 @@ The project is built around the Google ADK and utilizes the `gemini-3.1-flash-li
 
     ### 1. Clone the Repository
 
-    ```bash
-    git clone https://github.com/your-username/Labor_Rights_Legal_Aid_Agent.git
-    cd legal-aid-access-agent
+    ```cmd
+    git clone https://github.com/Abdurahim-2911/Labor_Rights_Legal_Aid_Agent.git
+    cd Labor_Rights_Legal_Aid_Agent
+    
+    <img width="1104" height="641" alt="Cloning" src="https://github.com/user-attachments/assets/60b0028f-7158-4560-8792-4e08ae7bd420" />
+
     ```
     
 
     ### 2. Create a `.env` File
 
-    Create a `.env` file in the project root with the following contents:
+    Create a `.env` file in the project root and paste the following contents:
 
-    ```env
+    ```
     GOOGLE_API_KEY='PUT YOUR API KEY HERE'
     GOOGLE_GENAI_USE_VERTEXAI=FALSE
+    
+    <img width="1920" height="1080" alt="ENV" src="https://github.com/user-attachments/assets/f3bcc8c7-da54-48b3-899d-577f6e125631" />
     ```
 
     ### 3. Create a Virtual Environment
 
     Open a terminal (Command Prompt) in the project directory and run:
 
-    ```bash
+    ```cmd
     python -m venv venv
+    
+    <img width="1103" height="638" alt="venv create" src="https://github.com/user-attachments/assets/326b6351-1455-4a22-beee-dcd14e043186" />
     ```
 
     ### 4. Activate the Virtual Environment
@@ -79,6 +86,8 @@ The project is built around the Google ADK and utilizes the `gemini-3.1-flash-li
 
     ```bash
     venv\Scripts\activate
+
+    <img width="1104" height="636" alt="venv activate" src="https://github.com/user-attachments/assets/15acaa21-1bb4-49aa-8df1-c68c9baf6b0e" />
     ```
 
     **Linux / macOS**
@@ -91,6 +100,8 @@ The project is built around the Google ADK and utilizes the `gemini-3.1-flash-li
 
     ```bash
     pip install -r requirements.txt
+    <img width="1109" height="1028" alt="Capture" src="https://github.com/user-attachments/assets/ddf22a5d-39bc-4cba-aa76-691216d6d761" />
+    <img width="1898" height="947" alt="Capture2" src="https://github.com/user-attachments/assets/a054604b-a4de-4add-80f3-eb0088915ab9" />
     ```
 
     ---
