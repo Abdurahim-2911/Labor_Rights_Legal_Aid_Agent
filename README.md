@@ -67,7 +67,7 @@ The project is built around the Google ADK and utilizes the `gemini-3.1-flash-li
     GOOGLE_API_KEY='PUT YOUR API KEY HERE'
     GOOGLE_GENAI_USE_VERTEXAI=FALSE
     
-    !<img width="1920" height="1080" alt="ENV" src="https://github.com/user-attachments/assets/f3bcc8c7-da54-48b3-899d-577f6e125631" />
+    ![ENV](https://github.com/user-attachments/assets/f3bcc8c7-da54-48b3-899d-577f6e125631)
     ```
 
     ### 3. Create a Virtual Environment
