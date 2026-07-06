@@ -77,7 +77,7 @@ The project is built around the Google ADK and utilizes the `gemini-3.1-flash-li
     ```cmd
     python -m venv venv
     
-    !<img width="1103" height="638" alt="venv create" src="https://github.com/user-attachments/assets/326b6351-1455-4a22-beee-dcd14e043186" />
+    <img width="1103" height="638" alt="venv create" src="https://github.com/user-attachments/assets/326b6351-1455-4a22-beee-dcd14e043186" />
     ```
 
     ### 4. Activate the Virtual Environment
@@ -87,7 +87,7 @@ The project is built around the Google ADK and utilizes the `gemini-3.1-flash-li
     ```bash
     venv\Scripts\activate
 
-    !<img width="1104" height="636" alt="venv activate" src="https://github.com/user-attachments/assets/15acaa21-1bb4-49aa-8df1-c68c9baf6b0e" />
+    <img width="1104" height="636" alt="venv activate" src="https://github.com/user-attachments/assets/15acaa21-1bb4-49aa-8df1-c68c9baf6b0e" />
     ```
 
     **Linux / macOS**
@@ -100,8 +100,8 @@ The project is built around the Google ADK and utilizes the `gemini-3.1-flash-li
 
     ```bash
     pip install -r requirements.txt
-    !<img width="1109" height="1028" alt="Capture" src="https://github.com/user-attachments/assets/ddf22a5d-39bc-4cba-aa76-691216d6d761" />
-    !<img width="1898" height="947" alt="Capture2" src="https://github.com/user-attachments/assets/a054604b-a4de-4add-80f3-eb0088915ab9" />
+    <img width="1109" height="1028" alt="Capture" src="https://github.com/user-attachments/assets/ddf22a5d-39bc-4cba-aa76-691216d6d761" />
+    <img width="1898" height="947" alt="Capture2" src="https://github.com/user-attachments/assets/a054604b-a4de-4add-80f3-eb0088915ab9" />
     ```
 
     ---
