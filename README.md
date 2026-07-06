@@ -4,32 +4,24 @@ Legal Aid Agent is a workflow-based pipeline built using the Google Agent Develo
 
 # Problem
 
-Every day, thousands of workers in the UAE experience labour issues such as delayed salaries, unfair termination, unsafe working conditions, contract violations, and employer misconduct. Although legal protections exist, many workers never seek help.
+Many workers in the UAE face issues such as unpaid wages, unfair termination, contract violations, and unsafe working conditions. While legal protections exist, understanding labour laws and navigating the complaint process can be difficult, particularly for migrant workers facing language barriers or unfamiliar government procedures.
 
-The barrier is often not the absence of laws—it is the lack of accessible legal guidance.
-
-Many workers are unfamiliar with UAE labour regulations, struggle to understand legal documents written in technical language, or simply do not know where to report their issue. Others fear retaliation, believe their case is too weak, or assume the complaint process is too complicated. Language barriers further limit access to reliable information, especially for migrant workers whose primary languages are Arabic, English, Urdu, or Hindi.
-
-As a result, legitimate labour disputes frequently go unresolved because workers lack the confidence and knowledge to take the first step.
+As a result, many legitimate cases go unreported because workers are unsure of their rights or the steps required to seek assistance.
 
 # Solution
 
-The **Labor Rights Legal Aid Agent** is an AI-powered multi-agent assistant designed to make UAE labour rights understandable and actionable for everyone.
+The Labor Rights Legal Aid Agent is a multi-agent AI assistant built with Google Agent Development Kit (ADK) that helps workers understand their rights under UAE labour law and navigate the complaint process with confidence.
 
-Instead of expecting workers to interpret complex legal documents or navigate government procedures on their own, the agent explains labour laws, employment contracts, and worker rights in simple, easy-to-understand language.
+Using a Retrieval-Augmented Generation (RAG) pipeline over a curated legal corpus, the system provides grounded legal explanations with article citations, generates complaint documents and evidence checklists, and guides users to the appropriate government authority or support organization.
 
-Using a specialized multi-agent architecture built with Google ADK, the system analyzes a worker's situation, retrieves the relevant UAE labour law articles through Retrieval-Augmented Generation (RAG), and provides grounded explanations supported by official legal sources.
+To improve accessibility, the agent supports four commonly spoken languages among UAE workers:
 
-Beyond answering questions, the agent guides workers through the complaint process by providing clear, step-by-step instructions on where to file a complaint, what documents are required, and which government authority or support organization is appropriate for their specific case.
+Arabic
+English
+Urdu
+Hindi
 
-To maximize accessibility, the system supports four of the most widely spoken languages among UAE workers:
-
-* Arabic
-* English
-* Urdu
-* Hindi
-
-By combining multilingual communication, grounded legal retrieval, and practical procedural guidance, the Labor Rights Legal Aid Agent helps workers better understand their rights, make informed decisions, and confidently access the legal support available to them.
+By combining multilingual support, specialized AI agents, and legally grounded responses, the system makes reliable labour rights guidance more accessible and actionable.
 
 ## Features
 
