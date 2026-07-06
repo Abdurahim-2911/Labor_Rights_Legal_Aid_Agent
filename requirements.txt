@@ -1,8 +1,9 @@
-google-adk          # Google Agent Development Kit (the agent framework)
-google-genai        # Google GenAI SDK (directly imported for types)
-chromadb            # Local vector database for RAG (legal document search)
-pymupdf             # PDF text extraction (imported as 'fitz')
-reportlab           # PDF generation for complaint letters
-pydantic            # Data validation & structured schemas
-python-dotenv       # Loads .env file into environment variables
-sentence-transformers  # Local embedding models for ChromaDB
+pip==26.1.2
+chromadb==1.5.9
+google-adk==2.3.0
+httptools==0.8.0
+PyMuPDF==1.27.2.3
+pyOpenSSL==26.3.0
+reportlab==5.0.0
+sentence-transformers==5.6.0
+watchfiles==1.2.0
