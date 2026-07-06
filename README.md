@@ -51,9 +51,10 @@ The project is built around the Google ADK and utilizes the `gemini-3.1-flash-li
     ### 1. Clone the Repository
 
     ```bash
-    git clone https://github.com/your-username/legal-aid-access-agent.git
+    git clone https://github.com/your-username/Labor_Rights_Legal_Aid_Agent.git
     cd legal-aid-access-agent
     ```
+    
 
     ### 2. Create a `.env` File
 
