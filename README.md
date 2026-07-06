@@ -16,9 +16,9 @@ Using a Retrieval-Augmented Generation (RAG) pipeline over a curated legal corpu
 
 To improve accessibility, the agent supports four commonly spoken languages among UAE workers:
 
-Arabic
-English
-Urdu
+Arabic\
+English\
+Urdu\
 Hindi
 
 By combining multilingual support, specialized AI agents, and legally grounded responses, the system makes reliable labour rights guidance more accessible and actionable.
